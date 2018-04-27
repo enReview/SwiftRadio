@@ -1,0 +1,47 @@
+{
+    "station":
+    [
+     {
+     "name": "FIP",
+     "streamURL": "http://direct.fipradio.fr/live/fip-midfi.mp3",
+     "imageURL": "station-fip.png",
+     "desc": "FIP",
+     "longDesc": "Respirez, vous êtes sur FIP | La radio musicale la plus éclectique."
+     },
+     {
+     "name": "TSF Jazz",
+     "streamURL": "http://statslive.infomaniak.ch/playlist/tsfjazz/tsfjazz-high.mp3/playlist.pls",
+     "imageURL": "station-tsf.png",
+     "desc": "TSF Jazz",
+     "longDesc": "La radio 100% Jazz de Paris"
+     },
+     {
+     "name": "WWOZ",
+     "streamURL": "http://wwoz-sc.streamguys.com/wwoz-hi.mp3.m3u",
+     "imageURL": "station-wwoz.png",
+     "desc": "WWOZ New Orleans 90.7 FM",
+     "longDesc": "WWOZ New Orleans 90.7 FM | New Orleans music to the universe!"
+     },
+     {
+     "name": "WFMU",
+     "streamURL": "http://wfmu.org/wfmu.pls",
+     "imageURL": "station-wfmu.png",
+     "desc": "WFMU - 91.1 FM",
+     "longDesc": "The freeform station of the nation"
+     },
+     {
+     "name": "Give the Drummer Radio",
+     "streamURL": "http://wfmu.org/wfmu_drummer.pls",
+     "imageURL": "station-wfmu-drummer.png",
+     "desc": "WFMU - Give the Drummer Radio",
+     "longDesc": "WFMU - Give the Drummer Radio"
+     },
+     {
+     "name": "Newport Folk Radio",
+     "streamURL": "http://rfcmedia.streamguys1.com/Newport.mp3",
+     "imageURL": "station-newportfolk.png",
+     "desc": "Newport Folk Radio",
+     "longDesc": "Do you like Indie music and along with that wants a radio that will provide lots of folk music in their daily radio programs than wait not just tune in to Newport Folk Radio as this is the kind of radio that has got lots of types of Indie music in their daily radio programs along with popular Folk music."
+     },
+    ]
+}

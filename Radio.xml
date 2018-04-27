@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-04-27T17:31:11Z</date>
+	<key>Application Version</key><string>12.7.4.76</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/pfriedman/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>7CF54586E908A971</string>
+	<key>Tracks</key>
+	<dict>
+		<key>390</key>
+		<dict>
+			<key>Track ID</key><integer>390</integer>
+			<key>Name</key><string>FIP</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-26T15:54:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Respirez, vous êtes sur FIP | La radio musicale la plus éclectique.</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3607416220</integer>
+			<key>Play Date UTC</key><date>2018-04-24T19:03:40Z</date>
+			<key>Persistent ID</key><string>AEFF78A7E4CFEA90</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://direct.fipradio.fr/live/fip-midfi.mp3?ID=jzq975xz47</string>
+		</dict>
+		<key>392</key>
+		<dict>
+			<key>Track ID</key><integer>392</integer>
+			<key>Name</key><string>WFMU</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-26T15:55:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>The freeform station of the nation</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3599047381</integer>
+			<key>Play Date UTC</key><date>2018-01-17T23:23:01Z</date>
+			<key>Persistent ID</key><string>21BEDAA9BC398B0B</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://wfmu.org/wfmu.pls</string>
+		</dict>
+		<key>394</key>
+		<dict>
+			<key>Track ID</key><integer>394</integer>
+			<key>Name</key><string>TSF Jazz</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-26T16:39:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>La radio 100% Jazz de Paris</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3599047369</integer>
+			<key>Play Date UTC</key><date>2018-01-17T23:22:49Z</date>
+			<key>Persistent ID</key><string>355B48C9D856D060</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://statslive.infomaniak.ch/playlist/tsfjazz/tsfjazz-high.mp3/playlist.pls</string>
+		</dict>
+		<key>396</key>
+		<dict>
+			<key>Track ID</key><integer>396</integer>
+			<key>Name</key><string>INTERNATIONAL RARE GROOVE</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>146</integer>
+			<key>Play Date</key><integer>3599047669</integer>
+			<key>Play Date UTC</key><date>2018-01-17T23:27:49Z</date>
+			<key>Persistent ID</key><string>79327025A104416B</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/international-rare-groove.m3u</string>
+		</dict>
+		<key>398</key>
+		<dict>
+			<key>Track ID</key><integer>398</integer>
+			<key>Name</key><string>WWOZ</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>194</integer>
+			<key>Play Date</key><integer>3599047373</integer>
+			<key>Play Date UTC</key><date>2018-01-17T23:22:53Z</date>
+			<key>Persistent ID</key><string>072F37E6760E9E66</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://wwoz-sc.streamguys.com/wwoz-hi.mp3.m3u</string>
+		</dict>
+		<key>400</key>
+		<dict>
+			<key>Track ID</key><integer>400</integer>
+			<key>Name</key><string>WCPE</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3541490696</integer>
+			<key>Play Date UTC</key><date>2016-03-22T18:24:56Z</date>
+			<key>Persistent ID</key><string>6BDEFB7E2FB75FB4</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.ibiblio.org/wcpe/wcpe.pls</string>
+		</dict>
+		<key>402</key>
+		<dict>
+			<key>Track ID</key><integer>402</integer>
+			<key>Name</key><string>WKCR</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EAC0C0AEACBDB262</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://kanga.college.columbia.edu:8000/</string>
+		</dict>
+		<key>404</key>
+		<dict>
+			<key>Track ID</key><integer>404</integer>
+			<key>Name</key><string>WCBN</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3549263857</integer>
+			<key>Play Date UTC</key><date>2016-06-20T17:37:37Z</date>
+			<key>Persistent ID</key><string>670FC9BBA5928BD3</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://floyd.wcbn.org:8000/wcbn-hd.mp3</string>
+		</dict>
+		<key>406</key>
+		<dict>
+			<key>Track ID</key><integer>406</integer>
+			<key>Name</key><string>Suburbs of Goa from SomaFM</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3584598472</integer>
+			<key>Play Date UTC</key><date>2017-08-03T16:47:52Z</date>
+			<key>Persistent ID</key><string>CD0E4AB339D8F93D</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://somafm.com/suburbsofgoa.pls</string>
+		</dict>
+		<key>408</key>
+		<dict>
+			<key>Track ID</key><integer>408</integer>
+			<key>Name</key><string>A Better 40s Wartime Music Station</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3529322850</integer>
+			<key>Play Date UTC</key><date>2015-11-02T23:27:30Z</date>
+			<key>Sort Name</key><string>Better 40s Wartime Music Station</string>
+			<key>Persistent ID</key><string>429F6A2D907B6881</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/a-better-40s-wartime-music-station.m3u</string>
+		</dict>
+		<key>410</key>
+		<dict>
+			<key>Track ID</key><integer>410</integer>
+			<key>Name</key><string>erika.net</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Total Time</key><integer>31428571</integer>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>FE044006A263B3D1</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://erika.net/erika.pls</string>
+		</dict>
+		<key>412</key>
+		<dict>
+			<key>Track ID</key><integer>412</integer>
+			<key>Name</key><string>RootDown.FM</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3513148349</integer>
+			<key>Play Date UTC</key><date>2015-04-29T17:32:29Z</date>
+			<key>Persistent ID</key><string>152843056B9E1FF3</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.boombasticradio.com/shoutcast/128.pls</string>
+		</dict>
+		<key>414</key>
+		<dict>
+			<key>Track ID</key><integer>414</integer>
+			<key>Name</key><string>Royalton Community Radio</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3581358197</integer>
+			<key>Play Date UTC</key><date>2017-06-27T04:43:17Z</date>
+			<key>Persistent ID</key><string>03997004D021F4CD</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://cp9.shoutcheap.com:2199/tunein/royalton.pls</string>
+		</dict>
+		<key>416</key>
+		<dict>
+			<key>Track ID</key><integer>416</integer>
+			<key>Name</key><string>M2 CALIENTE</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3520252558</integer>
+			<key>Play Date UTC</key><date>2015-07-20T22:55:58Z</date>
+			<key>Persistent ID</key><string>F40EE45F6A752540</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.m2radio.fr/pls/m2caliente_itunes.m3u</string>
+		</dict>
+		<key>418</key>
+		<dict>
+			<key>Track ID</key><integer>418</integer>
+			<key>Name</key><string>ROOTSofROCK.US</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3531139138</integer>
+			<key>Play Date UTC</key><date>2015-11-23T23:58:58Z</date>
+			<key>Persistent ID</key><string>CAA4791D6043720D</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://208.53.158.48:8364</string>
+		</dict>
+		<key>420</key>
+		<dict>
+			<key>Track ID</key><integer>420</integer>
+			<key>Name</key><string>Wyldwood Radio</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3589894149</integer>
+			<key>Play Date UTC</key><date>2017-10-03T23:49:09Z</date>
+			<key>Persistent ID</key><string>D86C44CB0AA677B1</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/wyldwood-radio.m3u</string>
+		</dict>
+		<key>422</key>
+		<dict>
+			<key>Track ID</key><integer>422</integer>
+			<key>Name</key><string>DDR Classic Soul and Reggae</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>48</integer>
+			<key>Play Date</key><integer>3599047648</integer>
+			<key>Play Date UTC</key><date>2018-01-17T23:27:28Z</date>
+			<key>Persistent ID</key><string>EB6F015664E7476F</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/ddrclassicsoulandreggae.m3u</string>
+		</dict>
+		<key>424</key>
+		<dict>
+			<key>Track ID</key><integer>424</integer>
+			<key>Name</key><string>Planet Pootwaddle</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>32</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3512460134</integer>
+			<key>Play Date UTC</key><date>2015-04-21T18:22:14Z</date>
+			<key>Persistent ID</key><string>5AFF05DD89EBF828</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://173.193.205.96:8208/</string>
+		</dict>
+		<key>426</key>
+		<dict>
+			<key>Track ID</key><integer>426</integer>
+			<key>Name</key><string>Lucky Dog Radio</string>
+			<key>Total Time</key><integer>27499990</integer>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>23B32E691C6CF84E</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.live365.com/cgi-bin/play.pls?stationid=luckydog&#38;tag=itunes</string>
+		</dict>
+		<key>428</key>
+		<dict>
+			<key>Track ID</key><integer>428</integer>
+			<key>Name</key><string>Rockin' Devil Radio</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3520252543</integer>
+			<key>Play Date UTC</key><date>2015-07-20T22:55:43Z</date>
+			<key>Persistent ID</key><string>245B770D2561A4DB</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/rockin-devilradio.m3u</string>
+		</dict>
+		<key>430</key>
+		<dict>
+			<key>Track ID</key><integer>430</integer>
+			<key>Name</key><string>All Digital Radio Network Eclectic Station</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3566650774</integer>
+			<key>Play Date UTC</key><date>2017-01-08T00:19:34Z</date>
+			<key>Persistent ID</key><string>0961F20F35CA8382</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://mydigitaledge.net/adrn/m3u/adr212.m3u</string>
+		</dict>
+		<key>432</key>
+		<dict>
+			<key>Track ID</key><integer>432</integer>
+			<key>Name</key><string>AMAZ Radio</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3505549963</integer>
+			<key>Play Date UTC</key><date>2015-01-31T19:52:43Z</date>
+			<key>Persistent ID</key><string>D9156A250728E7A4</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://s4.total-streaming.com:9046/listen.pls</string>
+		</dict>
+		<key>434</key>
+		<dict>
+			<key>Track ID</key><integer>434</integer>
+			<key>Name</key><string>Azurèva Egat Radio</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3505549950</integer>
+			<key>Play Date UTC</key><date>2015-01-31T19:52:30Z</date>
+			<key>Persistent ID</key><string>C7331EA69DEF6246</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://radiart.eu:2199/tunein/azureva.pls</string>
+		</dict>
+		<key>436</key>
+		<dict>
+			<key>Track ID</key><integer>436</integer>
+			<key>Name</key><string>Give the Drummer Radio</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3599047341</integer>
+			<key>Play Date UTC</key><date>2018-01-17T23:22:21Z</date>
+			<key>Persistent ID</key><string>9E1F1C5EE4589949</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://wfmu.org/wfmu_drummer.pls</string>
+		</dict>
+		<key>438</key>
+		<dict>
+			<key>Track ID</key><integer>438</integer>
+			<key>Name</key><string>Alpha Boys School Radio</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3515143282</integer>
+			<key>Play Date UTC</key><date>2015-05-22T19:41:22Z</date>
+			<key>Persistent ID</key><string>53B5B236A9DA629D</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://96.31.83.86:8072</string>
+		</dict>
+		<key>440</key>
+		<dict>
+			<key>Track ID</key><integer>440</integer>
+			<key>Name</key><string>dr_dick’s dub shack</string>
+			<key>Total Time</key><integer>13749995</integer>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B192BEB39499D674</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.live365.com/cgi-bin/play.pls?stationid=dr_dick&#38;tag=itunes</string>
+		</dict>
+		<key>442</key>
+		<dict>
+			<key>Track ID</key><integer>442</integer>
+			<key>Name</key><string>gdradio.net</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>24000</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3525416654</integer>
+			<key>Play Date UTC</key><date>2015-09-18T17:24:14Z</date>
+			<key>Persistent ID</key><string>528E5B90AC826116</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://216.119.152.213:8019/listen.pls</string>
+		</dict>
+		<key>444</key>
+		<dict>
+			<key>Track ID</key><integer>444</integer>
+			<key>Name</key><string>Radio Free Rockland</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3526469650</integer>
+			<key>Play Date UTC</key><date>2015-09-30T21:54:10Z</date>
+			<key>Persistent ID</key><string>428ACD43AFBB44EC</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://streaming.wrfr.org:8000/</string>
+		</dict>
+		<key>446</key>
+		<dict>
+			<key>Track ID</key><integer>446</integer>
+			<key>Name</key><string>WQXR - Q2 Music</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3540799522</integer>
+			<key>Play Date UTC</key><date>2016-03-14T18:25:22Z</date>
+			<key>Persistent ID</key><string>65466CBC5E8B81A9</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.wnyc.org/stream/q2/aac.pls</string>
+		</dict>
+		<key>448</key>
+		<dict>
+			<key>Track ID</key><integer>448</integer>
+			<key>Name</key><string>WQXR</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3540799497</integer>
+			<key>Play Date UTC</key><date>2016-03-14T18:24:57Z</date>
+			<key>Persistent ID</key><string>817C7A31090B0160</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://stream.wqxr.org/wqxr.aac</string>
+		</dict>
+		<key>450</key>
+		<dict>
+			<key>Track ID</key><integer>450</integer>
+			<key>Name</key><string>KDFC</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3526384201</integer>
+			<key>Play Date UTC</key><date>2015-09-29T22:10:01Z</date>
+			<key>Persistent ID</key><string>7F2B7CEAF80ABFF9</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://provisioning.streamtheworld.com/pls/KDFCFM.pls</string>
+		</dict>
+		<key>452</key>
+		<dict>
+			<key>Track ID</key><integer>452</integer>
+			<key>Name</key><string>WFMT</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3538982326</integer>
+			<key>Play Date UTC</key><date>2016-02-22T18:38:46Z</date>
+			<key>Persistent ID</key><string>54CC7FCD542EFB20</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.wfmt.com/res/streaming/live/wfmtmp3stream.pls</string>
+		</dict>
+		<key>454</key>
+		<dict>
+			<key>Track ID</key><integer>454</integer>
+			<key>Name</key><string>Abacus.fm Vintage Jazz</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3510641868</integer>
+			<key>Play Date UTC</key><date>2015-03-31T17:17:48Z</date>
+			<key>Persistent ID</key><string>5BFB642FA0667FE7</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/abacusfm-vintage-jazz.m3u</string>
+		</dict>
+		<key>456</key>
+		<dict>
+			<key>Track ID</key><integer>456</integer>
+			<key>Name</key><string>A Better Classic Blues Vintage Station</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3510299983</integer>
+			<key>Play Date UTC</key><date>2015-03-27T18:19:43Z</date>
+			<key>Sort Name</key><string>Better Classic Blues Vintage Station</string>
+			<key>Persistent ID</key><string>574B67F0A48DC1C9</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://listen.radionomy.com/a-better-classic-blues-vintage-station.m3u</string>
+		</dict>
+		<key>458</key>
+		<dict>
+			<key>Track ID</key><integer>458</integer>
+			<key>Name</key><string>KEXP Live</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3535459472</integer>
+			<key>Play Date UTC</key><date>2016-01-13T00:04:32Z</date>
+			<key>Persistent ID</key><string>CE12A66B2A972696</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://live-mp3-128.kexp.org/listen.pls</string>
+		</dict>
+		<key>460</key>
+		<dict>
+			<key>Track ID</key><integer>460</integer>
+			<key>Name</key><string>KCRW ECLECTIC24</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3539688122</integer>
+			<key>Play Date UTC</key><date>2016-03-01T22:42:02Z</date>
+			<key>Persistent ID</key><string>984A61CF3AEAD29D</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://kcrw.ic.llnwd.net/stream/kcrw_music</string>
+		</dict>
+		<key>462</key>
+		<dict>
+			<key>Track ID</key><integer>462</integer>
+			<key>Name</key><string>KCRW ON AIR</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3539676065</integer>
+			<key>Play Date UTC</key><date>2016-03-01T19:21:05Z</date>
+			<key>Persistent ID</key><string>BAB2E6A3C5637D8B</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://kcrw.ic.llnwd.net/stream/kcrw_live</string>
+		</dict>
+		<key>464</key>
+		<dict>
+			<key>Track ID</key><integer>464</integer>
+			<key>Name</key><string>WXPN</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3536734011</integer>
+			<key>Play Date UTC</key><date>2016-01-27T18:06:51Z</date>
+			<key>Persistent ID</key><string>2F25A8A47BC04086</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://wxpnhi.streamguys.com/listen.pls</string>
+		</dict>
+		<key>468</key>
+		<dict>
+			<key>Track ID</key><integer>468</integer>
+			<key>Name</key><string>CHIRP Radio</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3566649721</integer>
+			<key>Play Date UTC</key><date>2017-01-08T00:02:01Z</date>
+			<key>Persistent ID</key><string>709D41EE322F9C78</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://chirpradio.org/listen</string>
+		</dict>
+		<key>470</key>
+		<dict>
+			<key>Track ID</key><integer>470</integer>
+			<key>Name</key><string>FIP autour du monde</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3600932949</integer>
+			<key>Play Date UTC</key><date>2018-02-08T19:09:09Z</date>
+			<key>Persistent ID</key><string>D4D73CC13484629F</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://direct.fipradio.fr/live/fip-webradio4.mp3?ID=jzq975xz47</string>
+		</dict>
+		<key>472</key>
+		<dict>
+			<key>Track ID</key><integer>472</integer>
+			<key>Name</key><string>FIP à Bordeaux</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3600932843</integer>
+			<key>Play Date UTC</key><date>2018-02-08T19:07:23Z</date>
+			<key>Persistent ID</key><string>580DC64815D52873</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://direct.fipradio.fr/live/fipbordeaux-midfi.mp3?ID=jzq975xz47</string>
+		</dict>
+		<key>474</key>
+		<dict>
+			<key>Track ID</key><integer>474</integer>
+			<key>Name</key><string>FIP à Nantes</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Persistent ID</key><string>0AF498EA93654AE0</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://direct.fipradio.fr/live/fipnantes-midfi.mp3?ID=jzq975xz47</string>
+		</dict>
+		<key>476</key>
+		<dict>
+			<key>Track ID</key><integer>476</integer>
+			<key>Name</key><string>FIP à Strasbourg</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Persistent ID</key><string>72635C0625228127</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3?ID=jzq975xz47</string>
+		</dict>
+		<key>478</key>
+		<dict>
+			<key>Track ID</key><integer>478</integer>
+			<key>Name</key><string>FIP tout nouveau, tout FIP</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Date Added</key><date>2017-06-27T04:42:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3600932848</integer>
+			<key>Play Date UTC</key><date>2018-02-08T19:07:28Z</date>
+			<key>Persistent ID</key><string>3553B0814FCD7D81</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://direct.fipradio.fr/live/fip-webradio5.mp3?ID=jzq975xz47</string>
+		</dict>
+		<key>628</key>
+		<dict>
+			<key>Track ID</key><integer>628</integer>
+			<key>Name</key><string>WKCR</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2017-08-04T17:05:12Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3584685913</integer>
+			<key>Play Date UTC</key><date>2017-08-04T17:05:13Z</date>
+			<key>Persistent ID</key><string>331F9DAAB5A6358F</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://wkcr.streamguys1.com:80/live</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Radio</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>1655</integer>
+			<key>Playlist Persistent ID</key><string>1DC6176F65782505</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>464</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>406</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>628</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
